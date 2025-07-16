@@ -1,0 +1,22 @@
+## Build results
+bin/
+obj/
+
+## Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Rider
+.idea/
+
+## VSCode
+.vscode/
+
+## Logs
+*.log
+
+## Others
+*.tmp

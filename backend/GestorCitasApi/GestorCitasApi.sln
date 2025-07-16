@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestorCitasApi", "GestorCitasApi\GestorCitasApi.csproj", "{395B5E53-517D-4A1D-ADEE-CEC5C2935C33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{395B5E53-517D-4A1D-ADEE-CEC5C2935C33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{395B5E53-517D-4A1D-ADEE-CEC5C2935C33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{395B5E53-517D-4A1D-ADEE-CEC5C2935C33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{395B5E53-517D-4A1D-ADEE-CEC5C2935C33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {841156D7-4CAD-4ED3-9CD6-66958F7A521A}
+	EndGlobalSection
+EndGlobal

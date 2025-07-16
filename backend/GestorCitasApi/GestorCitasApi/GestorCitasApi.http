@@ -1,0 +1,6 @@
+@GestorCitasApi_HostAddress = http://localhost:5144
+
+GET {{GestorCitasApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
